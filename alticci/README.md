@@ -26,14 +26,10 @@ You can launch the unit tests by using the following maven command:
 ```
 mvn test
 ```
-You can launch the integration tests by using the following maven command:
-```
-mvn verify
-```
+
 ### Built with
 * Java 19
 * SpringBoot
-* SpringData JPA
 * Rest API
 * Swagger
 * Redis (cache)
